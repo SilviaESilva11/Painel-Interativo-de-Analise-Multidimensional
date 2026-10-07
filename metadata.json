@@ -1,0 +1,7 @@
+{
+  "name": "Painel Interativo de Análise Multidimensional",
+  "description": "Plataforma analítica avançada com visualização multidimensional de dados, gráficos dinâmicos, tabelas pivot, mapas e filtros interativos em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
