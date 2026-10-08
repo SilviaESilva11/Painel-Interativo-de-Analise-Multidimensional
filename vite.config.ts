@@ -5,7 +5,6 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Define o caminho base relativo ao seu repositório no GitHub Pages
     base: '/Painel-Interativo-de-Analise-Multidimensional/',
     plugins: [react(), tailwindcss()],
     resolve: {
